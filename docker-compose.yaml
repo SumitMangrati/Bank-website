@@ -1,0 +1,6 @@
+version: '3'
+services: 
+  hoobank-c: 
+    image: hoobank
+    ports: 
+    - 5173:3000
